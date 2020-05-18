@@ -215,7 +215,7 @@ namespace TarkovPingTester
             {
                 ServerRegion = "ASI",
                 ServerName = "Seoul",
-                ServerAddress = new string[] { "92.223.73.29", "92.223.73.16" },
+                ServerAddress = new string[] { "92.223.73.8", "92.223.73.159" },
                 MinPing = 0,
                 AvgPing = 0,
                 MaxPing = 0,
@@ -292,7 +292,7 @@ namespace TarkovPingTester
             {
                 ServerRegion = "ASI",
                 ServerName = "HongKong",
-                ServerAddress = new string[] { "209.58.190.117", "103.66.180.142" },
+                ServerAddress = new string[] { "209.58.191.183", "103.66.180.142" },
                 MinPing = 0,
                 AvgPing = 0,
                 MaxPing = 0,
